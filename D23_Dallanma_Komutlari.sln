@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D23_Dallanma_Komutlari", "D23_Dallanma_Komutlari\D23_Dallanma_Komutlari.csproj", "{B43B34E5-9236-449F-BDA5-174E4C17FE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43B34E5-9236-449F-BDA5-174E4C17FE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43B34E5-9236-449F-BDA5-174E4C17FE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43B34E5-9236-449F-BDA5-174E4C17FE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43B34E5-9236-449F-BDA5-174E4C17FE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4701976B-442B-4D33-B963-1D27175CEE17}
+	EndGlobalSection
+EndGlobal
